@@ -1,4 +1,4 @@
-# Blackvue
+# Blackvue Movie Downloader
 Blackvue Camera Movie Downloader
 So, like many I had a want/need to to download in-car footage from the Blackvue 750 without using the Blackvue Cloud. I wanted something that would download the movies overnight to my Synology NAS direct over my Wi-Fi. Blackvue don't make this easy but its possible to do. Ideally I'd have used something like RSync to keep a local and remote folder up to date but thats not possible as far as I can tell.
 
@@ -18,4 +18,4 @@ What it does:
 
 Unless you have endless diskspace you will need some form of control of the movies it downloads as they can build up very quickly, 2 or 3 days of commuting for me is over 600 x 90mb movies.
 
-======================================================= xxx ========================================================
+========= xxx ==========
